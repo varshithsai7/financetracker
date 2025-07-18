@@ -110,9 +110,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is for educational purpose
 
 ---
-
-## Contact
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+.
